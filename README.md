@@ -1,4 +1,4 @@
-## Hardwarenahe-Programmierung---Tag-1
+## Hardwarenahe-Programmierung - Tag 1
 
 In dieser Übung decken wir die Grundlagen der C-Programmierung ab, insbesondere Funktionen,  Arrays, Pointer und Unit-Tests.
 
@@ -10,8 +10,10 @@ durch drei teilbar ist, soll 1 als Ruckgabewert ubergeben werden, andernfalls 0.
 
 (b) Schreiben Sie ein Programm, das mit Ihrer Funktion aus (a) eine Zahl x testet und dem Benutzer
 am Bildschirm eine Meldung ausgibt, ob die Zahl durch drei teilbar ist. Dabei soll der Benutzer
-nach Programmstart aufgefordert werden, die Zahl x einzugeben. Beispiel:
-Geben Sie eine Zahl ein: 35
+nach Programmstart aufgefordert werden, die Zahl x einzugeben. Beispiel: 
+
+Geben Sie eine Zahl:
+
 -------------------------------------
 Die Zahl ist nicht durch drei teilbar!
 
